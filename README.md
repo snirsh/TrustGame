@@ -10,4 +10,4 @@ Large scale simulator of the game with diﬀerent bot types, and using diﬀeren
 
 ## Acknowledgments
 
-
+* Thanks to Alistair Muldal for the Cluster Network
